@@ -1,4 +1,5 @@
-import wave         
+# Зубов Владислав 06.10.2022
+import wave
 import struct
 import sys
 
